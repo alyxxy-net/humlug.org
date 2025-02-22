@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on HumLUG - Humboldt Linux Users Group</title>
+    <link>/</link>
+    <description>Recent content in Home on HumLUG - Humboldt Linux Users Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>About HumLUG: The Humboldt Linux Users Group is a group of individuals in the Humboldt County area that enjoy the use of Linux and discussions about technology. We enjoy meeting and being able to spend time with interesting people who share our interests and the opportunity to learn new things.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/announcements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/announcements/</guid>
+      <description>Announcements: Next Thursday Evening Presentation Meeting: Next meeting: 6:00PM March 20, 2025 at the Babe&amp;rsquo;s Pizza conference room This month&amp;rsquo;s HumLUG presentation meeting is currently undecided, feel free to share any ideas you have!
+The site has been moved to it&amp;rsquo;s new home The site has been moved to a new github repo and is now ready for new contributors for anyone who wants to help update it.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/events/</guid>
+      <description>HumLUG Events: Lunch meetings: HumLug meets for lunch and fun discussions about technology every friday at 11:30pm at Babe&amp;rsquo;s Pizza in Eureka.
+Evening meetings: We have monthly presentation focussed meetings on the third Thursday at 6:00PM at Babe&amp;rsquo;s Pizza in Eureka.
+Next meeting: 6:00PM March 20, 2025 at the Babe&amp;rsquo;s Pizza conference room This month&amp;rsquo;s HumLUG presentation meeting is currently undecided, feel free to share any ideas you have!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/join/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/join/</guid>
+      <description>Join HumLUG&amp;rsquo;s mailing list! If you would like to join the HumLUG mailing list then please send an email to admin@humlug.org with your request.</description>
+    </item>
+    
+  </channel>
+</rss>
