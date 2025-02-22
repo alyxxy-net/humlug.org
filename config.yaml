@@ -1,0 +1,27 @@
+baseurl: ""
+relativeURLs: "True"
+languageCode: "en-us"
+title: 'HumLUG - Humboldt Linux Users Group'
+theme: "hugo-minimal"
+footnotereturnlinkcontents: "↩"
+
+menu:
+  main:
+    - name: Home
+      url: ""
+      weight: 1
+    - name: About
+      url: "about/"
+      weight: 2
+    - name: Announcements
+      url: "announcements/"
+      weight: 3
+    - name: Events
+      url: "events/"
+      weight: 4
+    - name: Join
+      url: "join/"
+
+params:
+  description: "Official website of the Humboldt Linux Users Group (HumLUG)."
+  footer: "All logos and trademarks in this site are property of their respective owner. Anything else not covered by it's own copyright is &copy; 2025 -- {Year} humlug.org -- [Github repo](https://github.com/alyxxy-net/humlug.org) -- Contact the site [admin](mailto:contact@alyxxy.net)"
