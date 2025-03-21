@@ -19,6 +19,9 @@ menu:
     - name: Events
       url: "events/"
       weight: 4
+    - name: Event Notes
+      url: "event_notes/"
+      weight: 5
     - name: Join
       url: "join/"
 
