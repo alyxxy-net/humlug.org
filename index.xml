@@ -34,7 +34,12 @@ The site has been moved to it&amp;rsquo;s new home The site has been moved to a 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/event_notes/</guid>
-      <description>Notes on Meetings: March 2025 - MQTT notes: winget install mosquitto mqtt_serve_tester ps-mqtt-sqlite winget install &amp;ndash;id=thomasnordquist.MQTT-Explorer -e DB Browser for SQLite</description>
+      <description>Notes on Meetings: March 2025 - MQTT notes: winget install mosquitto mqtt_serve_tester ps-mqtt-sqlite winget install &amp;ndash;id=thomasnordquist.MQTT-Explorer -e DB Browser for SQLite
+May 2025 - More detail on this project:
+https://en.wikipedia.org/wiki/CD3WD
+https://www.cd3wdproject.org/
+It’s been 2 years since my HumLUG presentation on &amp;ldquo;Internet in a Box”. Here’s a link to the slides.
+I’ve found that IIAB works better from a x86 machine rather than a Raspberry Pi, especially if you’re going to load up Open Street Maps and expect to be zooming around between the 10 levels of detail.</description>
     </item>
     
     <item>
