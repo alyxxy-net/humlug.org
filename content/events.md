@@ -1,6 +1,7 @@
 # HumLUG Events:
 
 ## Lunch meetings:
+### Friday July 4th 2025 we will be going to Tandorii Bites Pizza 215 W 7th Street. Thi is a one time only thing.  
 HumLug meets for lunch and fun discussions about technology every friday at 11:30pm at [Babe's Pizza](https://goo.gl/maps/bChPaDrPDU42) in Eureka. 
 
 ## Evening meetings:
