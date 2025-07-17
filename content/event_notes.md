@@ -25,3 +25,7 @@ Today I got x86 IIAB resurrected  in it's April 2023 configuration and am now up
 
 Questions about IIAB are welcome!
 
+Video of the presentation:
+https://drive.google.com/file/d/19XeHLMtnmnT88G4iZ0vgbz75rODm58Nk/view
+
+# June 2025
