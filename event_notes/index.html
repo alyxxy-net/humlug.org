@@ -55,6 +55,101 @@ DB Browser for SQLite</p>
 <p>Video of the presentation:
 <a href="https://drive.google.com/file/d/19XeHLMtnmnT88G4iZ0vgbz75rODm58Nk/view">https://drive.google.com/file/d/19XeHLMtnmnT88G4iZ0vgbz75rODm58Nk/view</a></p>
 <h1 id="june-2025">June 2025</h1>
+<h1 id="dec-2025">Dec 2025</h1>
+<h1 id="notes-on-10-server-racks-minipcs-and-related-hardware">Notes on 10&rdquo; Server Racks, MiniPCs, and Related Hardware</h1>
+<p><em>In deference to most members’ sensibilities, the photos of my &ldquo;machine stacks &amp; racks&rdquo; cabling have not been included.</em></p>
+<hr>
+<h2 id="whats-the-purpose-of-a-10-server-rack">What’s the Purpose of a 10” Server Rack?</h2>
+<ul>
+<li>Portability</li>
+<li>Organization</li>
+<li>Clean look</li>
+<li>Good for multiples of 1U items</li>
+</ul>
+<hr>
+<h2 id="pros">Pros</h2>
+<ul>
+<li>Enforces discipline &amp; planning</li>
+<li>Concentrates compute</li>
+<li>Works well with Tiny/Mini/Micro 1L PCs</li>
+</ul>
+<hr>
+<h2 id="cons">Cons</h2>
+<ul>
+<li>Stuff that doesn’t fit:
+<ul>
+<li>Various MiniPCs</li>
+<li>Cheaper Chinese units &gt; 1U height</li>
+<li>Taller Intel NUCs</li>
+<li>External hard drives</li>
+</ul>
+</li>
+<li>No solution to power or power‑brick issues</li>
+<li>When 10” isn’t really 10”: inside rails = <strong>8.75”</strong></li>
+<li>Ventilation challenges</li>
+</ul>
+<hr>
+<h2 id="miniitx-examples">Mini‑ITX Examples</h2>
+<ul>
+<li>NAS boards</li>
+<li>Questions to solve:
+<ul>
+<li>Where’s the power supply going?</li>
+<li>Where’s SATA storage going to go?</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="minisforum-bd795i-se-example">Minisforum BD795i SE Example</h2>
+<ul>
+<li>16 cores, 32 threads, 128GB RAM</li>
+<li>Questions to solve:
+<ul>
+<li>Where’s the GPU going to go?</li>
+<li>Where’s the power supply going to go?</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="current-favorite-value-minipc--peladn-wo4">Current Favorite Value MiniPC — <strong>Peladn WO4</strong></h2>
+<p><strong>But it doesn’t fit in 1U!</strong></p>
+<p>Heard about it from this YT video:<br>
+<a href="https://youtu.be/tp_iQpjSctM?si=Z9NkQtaPiEiAFa6z">https://youtu.be/tp_iQpjSctM?si=Z9NkQtaPiEiAFa6z</a></p>
+<p>Make sure you get the right configuration — they sell multiple variants:<br>
+<a href="https://peladn.us/products/peladn-ha-4-mini-pc-amd-ryzen-5-7640hs?variant=50551604576573">https://peladn.us/products/peladn-ha-4-mini-pc-amd-ryzen-5-7640hs?variant=50551604576573</a></p>
+<p><strong>Specs:</strong></p>
+<ul>
+<li>AMD Ryzen 5 7640HS</li>
+<li>6‑core / 12‑thread CPU</li>
+<li>32GB DDR5 RAM</li>
+<li>1TB NVMe</li>
+<li>2 NICs:
+<ul>
+<li>1 × 2.5Gb</li>
+<li>1 × 1Gb</li>
+</ul>
+</li>
+<li>2 NVMe slots</li>
+<li>~$384 with 10% discount code <code>Geek1201</code></li>
+<li>Ships from US warehouse</li>
+</ul>
+<p><strong>Why it’s compelling:</strong></p>
+<ul>
+<li>Worth it for the RAM alone</li>
+<li>Great for a Proxmox node with Ceph storage due to:
+<ul>
+<li>2nd NIC</li>
+<li>2nd NVMe slot</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="virtualizationhowto-youtube--blog">VirtualizationHowto (YouTube &amp; Blog)</h2>
+<ul>
+<li><a href="https://www.youtube.com/@VirtualizationHowto/videos">https://www.youtube.com/@VirtualizationHowto/videos</a></li>
+<li><a href="https://www.virtualizationhowto.com">https://www.virtualizationhowto.com</a></li>
+</ul>
+<hr>
 
 </main>
 
